@@ -9,6 +9,7 @@ int main()
     scanf("%s", nume);
     
     printf("Hello, %s!\n", nume);
+    printf("Fisier semnat de DanielProletarul!");
 
     return 0;
 }
